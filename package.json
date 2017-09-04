@@ -7,7 +7,7 @@
     "start": "webpack-dev-server",
     "electron": "electron ."
   },
-  "author": "Rallycoding",
+  "author": "",
   "devDependencies": {
     "electron": "~1.6.2"
   },
